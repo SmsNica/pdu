@@ -3,9 +3,10 @@ namespace Application\Pdu;
 
 use Application\Pdu\Pdu;
 use Application\Exception\InvalidArgumentException;
+
 /**
- * Class Pdu
- * @package Device\Pdu
+ * Class PduFactory
+ * @package Application\Pdu
  */
 class PduFactory {
 
