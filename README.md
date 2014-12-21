@@ -1,4 +1,13 @@
-pdu
-===
+PHP PDU Converter for GSM SMS 
+=============================
 
-Protocol data unit converter 
+The following is a simple Pdu library for encoding and decoding PDU string
+
+Features 
+    
+    - Set SMSC
+    - encode/decode 7,8,16 bits messages
+    - set message class 0-3
+    - set validity
+    - set Receipt
+
