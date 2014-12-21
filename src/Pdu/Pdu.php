@@ -6,7 +6,7 @@ use Application\Utf8\Utf8;
 use Application\Exception\InvalidArgumentException;
 /*
  * 31.01.2014: PHP version by Bruce Lampson.
- *
+ * - https://github.com/BruceLampson
  *
  * April 2010: Futher changes and functionality by Keijo Kasvi.
  * http://smstools3.kekekasvi.com - Feel free to use this code as you wish.
