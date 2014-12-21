@@ -1,7 +1,7 @@
 PHP PDU Converter for GSM SMS 
 =============================
 
-The following is a simple Pdu library for encoding and decoding PDU string
+The following is a simple Pdu library for encoding and decoding PDU strings
 
 Features 
     
